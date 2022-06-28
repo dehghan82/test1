@@ -6,6 +6,7 @@ class passenger
     public string noe_darkhast {get; set;}
     public string Name  // property
     { get; set; }
+
     public string lastname { get; set; }
     public string ssn { get; set; }
     public int birthday { get; set; }
